@@ -1,7 +1,7 @@
 # awesome-secure-defaults
 
 <p align="center">
-  <a href="https://tldrsec.com/subscribe">
+  <a href="https://tldrsec.com/subscribe?utm_source=github&utm_medium=awesomesecuredefaults">
     <picture>
       <img src="https://github.com/tldrsec/awesome-secure-defaults/assets/13310971/ce73c00a-b0ef-4512-8ae4-0dd17e602bae" alt="tl;dr sec Newsletter"/>
     </picture>
