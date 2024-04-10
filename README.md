@@ -62,6 +62,7 @@
 | [aws/http-desync-guardian](https://github.com/aws/http-desync-guardian) |  Analyze HTTP requests to minimize risks of HTTP Desync attacks (precursor for HTTP request smuggling/splitting). |  Rust | HTTP Desync |[![stars](https://badgen.net/github/stars/aws/http-desync-guardian)](https://badgen.net/github/stars/aws/http-desync-guardian) [![last-commit](https://badgen.net/github/last-commit/aws/http-desync-guardian)](https://badgen.net/github/last-commit/aws/http-desync-guardian) 
 | [rust-ammonia/ammonia](https://github.com/rust-ammonia/ammonia) |   Repair and secure untrusted HTML  |  Rust | HTML Sanitizer (XSS prevention) |[![stars](https://badgen.net/github/stars/rust-ammonia/ammonia)](https://badgen.net/github/stars/rust-ammonia/ammonia) [![last-commit](https://badgen.net/github/last-commit/rust-ammonia/ammonia)](https://badgen.net/github/last-commit/rust-ammonia/ammonia) 
 | [techgaun/plug_secex](https://github.com/techgaun/plug_secex) | Adds various HTTP Headers to make Phoenix/Elixir app more secure  |  Elixir | Headers |[![stars](https://badgen.net/github/stars/techgaun/plug_secex)](https://badgen.net/github/stars/techgaun/plug_secex) [![last-commit](https://badgen.net/github/last-commit/techgaun/plug_secex)](https://badgen.net/github/last-commit/techgaun/plug_secex) 
+| [HardenedBSD](https://git.hardenedbsd.org/hardenedbsd/HardenedBSD/) | Hardened fork of FreeBSD with extra exploit mitigations and security hardening technologies | C, C++, Shell, Other | OS / ecosystem | N/A
 
 ## Template
 
