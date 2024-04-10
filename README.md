@@ -1,6 +1,6 @@
 # awesome-secure-defaults
 
-![tldrsec-banner](https://github.com/tldrsec/awesome-secure-defaults/assets/13310971/49e7cf33-a895-4651-95d9-6880380e55ca)
+![tldrsec-banner-dropshadow](https://github.com/tldrsec/awesome-secure-defaults/assets/13310971/ce73c00a-b0ef-4512-8ae4-0dd17e602bae)
 
 | Library      | Description | Language(s)      | Category | Metadata |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
