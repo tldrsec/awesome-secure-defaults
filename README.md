@@ -1,6 +1,6 @@
 # awesome-secure-defaults
 
-> 💙 Brought to you by [tl;dr sec](https://tldrsec.com/): Keep up with Cybersecurity in 7 min/week 💙
+![tldrsec-banner](https://github.com/tldrsec/awesome-secure-defaults/assets/13310971/49e7cf33-a895-4651-95d9-6880380e55ca)
 
 | Library      | Description | Language(s)      | Category | Metadata |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
