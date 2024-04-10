@@ -1,6 +1,14 @@
 # awesome-secure-defaults
 
-![tldrsec-banner-dropshadow](https://github.com/tldrsec/awesome-secure-defaults/assets/13310971/ce73c00a-b0ef-4512-8ae4-0dd17e602bae)
+<p align="center">
+  <a href="https://tldrsec.com/subscribe">
+    <picture>
+      <img src="https://github.com/tldrsec/awesome-secure-defaults/assets/13310971/ce73c00a-b0ef-4512-8ae4-0dd17e602bae" alt="tl;dr sec Newsletter"/>
+    </picture>
+  </a>
+</p>
+
+<hr/>
 
 | Library      | Description | Language(s)      | Category | Metadata |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
